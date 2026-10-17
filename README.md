@@ -2,8 +2,9 @@
 
 https://datatracker.ietf.org/wg/dnsop/about/
 
-* Chairs: Benno Overeinder & Ondřej Surý
-* Secretaries:	Peter Thomassen & Shumon Huque
+* Chairs: Benno Overeinder, Ondřej Surý & Peter Thomassen
+* Secretary: Shumon Huque
+* Technical Advisor: Jim Reid
 * Area Director: Mohamed Boucadair
 
 Mailing List: http://www.ietf.org/mailman/listinfo/dnsop
